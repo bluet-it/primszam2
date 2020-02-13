@@ -1,0 +1,14 @@
+C:\Users\v\Desktop\primszam\primszam\bin\Debug\primszam.exe.config
+C:\Users\v\Desktop\primszam\primszam\bin\Debug\primszam.exe
+C:\Users\v\Desktop\primszam\primszam\bin\Debug\primszam.pdb
+C:\Users\v\Desktop\primszam\primszam\obj\Debug\primszam.csprojAssemblyReference.cache
+C:\Users\v\Desktop\primszam\primszam\obj\Debug\primszam.csproj.CoreCompileInputs.cache
+C:\Users\v\Desktop\primszam\primszam\obj\Debug\primszam.exe
+C:\Users\v\Desktop\primszam\primszam\obj\Debug\primszam.pdb
+D:\projects\c#\primszam2\primszam\bin\Debug\primszam.exe.config
+D:\projects\c#\primszam2\primszam\bin\Debug\primszam.exe
+D:\projects\c#\primszam2\primszam\bin\Debug\primszam.pdb
+D:\projects\c#\primszam2\primszam\obj\Debug\primszam.csprojAssemblyReference.cache
+D:\projects\c#\primszam2\primszam\obj\Debug\primszam.csproj.CoreCompileInputs.cache
+D:\projects\c#\primszam2\primszam\obj\Debug\primszam.exe
+D:\projects\c#\primszam2\primszam\obj\Debug\primszam.pdb
